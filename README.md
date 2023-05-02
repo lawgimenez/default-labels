@@ -1,14 +1,14 @@
 ## Default Labels
 
-### android
+### Android
 `#3DDC84`
 ------
 
-### android studio
+### Android Studio
 `#3CDC84`
 ------
 
-### kotlin
+### Kotlin
 `#7F51FC`
 ------
 
@@ -20,7 +20,7 @@
 `#d73a4a`
 ------
 
-### ios
+### iOS
 `#78C5EF`
 ------
 
@@ -48,7 +48,7 @@
 `#ffffff`
 ------
 
-### cant-replicate
+### can't replicate
 `#d4c5f9`
 ------
 
@@ -60,7 +60,7 @@
 `#1d7a01`
 ------
 
-### xcode
+### Xcode
 `#1D76DB`
 ------
 
@@ -68,7 +68,7 @@
 `#9D34AE`
 ------
 
-### swift
+### Swift
 `#F05138`
 ------
 
